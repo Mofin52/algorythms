@@ -45,3 +45,5 @@ function selectionSortDesc(arr) {
 };
 
 let testArr = [3, 5, 10, 2, 46, 1532, 44, 61];
+console.log("SELECTION SORT ASCENDING");
+console.log(selectionSortAsc(testArr));
